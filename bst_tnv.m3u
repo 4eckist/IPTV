@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1, БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1, Курай
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:-1, Тамыр
+http://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1, Салям
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1, Учалы ТВ
+http://live-uchalytv.cdnvideo.ru/uchalytv/uchalytv.sdp/playlist.m3u8
+#EXTINF:-1, ТНВ
+https://hls-iptv.tattelecom.ru/online_tv_TNV/index.m3u8
+#EXTINF:-1, ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Шаян ТВ
+http://shayan.bonus-tv.ru/cdn/shayan/tracks-v3a1/mono.m3u8
+#EXTINF:-1, Майдан
+http://2qh1qrfwvfy.a.trbcdn.net/livemaster/pxzrk_live-l87xqi70jg.smil/playlist.m3u8
+#EXTINF:-1, BEZ
+https://hls-iptv.tattelecom.ru/online_tv_Bez/index.m3u8
+#EXTINF:-1, Туган тел
+http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
+#EXTINF:-1, Туган тел HD
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1, Матур ТВ
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1, TMTV
+https://hls-iptv.tattelecom.ru/online_tv_TMTV/index.m3u8
+#EXTINF:-1, MTVmix 
+http://81.30.182.82:18092/hls/live.m3u8
+
